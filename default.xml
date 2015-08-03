@@ -25,7 +25,7 @@
   <project path="development" name="platform/development" groups="pdk-cw-fs" />
   <project path="device/common" name="device/common" groups="pdk-cw-fs" />
   <project path="device/moto/shamu" name="N3X0S/device_moto_shamu" remote="gh" revision="lp-mr1" />
-  <project path="kernel/moto/shamu" name="DespairFactor/N6" remote="gh" revision="despair" />
+  <project path="kernel/moto/shamu" name="DespairFactor/N6" remote="gh" revision="CFS" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" groups="pdk-cw-fs" />
   <project path="external/aac" name="platform/external/aac" groups="pdk" />
   <project path="external/android-clat" name="platform/external/android-clat" groups="pdk-cw-fs" />
